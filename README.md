@@ -83,6 +83,7 @@
 ---
 
 ## 🔗 Tautan Repositori
+**https://github.com/2200016143-png/ecosmart-project.git**
 
 Pembaruan kode dan riwayat pengembangan dapat diakses melalui tautan resmi berikut:  
 [cite_start]👉 **[https://github.com/2200016143-png/ecosmart](https://github.com/2200016143-png/ecosmart)** [cite: 104]
