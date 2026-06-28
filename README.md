@@ -61,13 +61,6 @@
 | **Navigation** | [cite_start]`Navigator.push()` untuk perpindahan antar halaman [cite: 72] |
 | **Data Layer** | [cite_start]Local State (data disimpan dalam memori aplikasi) [cite: 72] |
 
-### 🗺️ Alur Penggunaan (User Flow)
-
-```
-
-```
----
-
 ## 📈 Rencana Pengembangan (Minggu Ke-9)
 
 [cite_start]Tahap *development* berikutnya akan berfokus pada implementasi kode dan uji coba[cite: 93]:
@@ -81,9 +74,6 @@
 - [ ] [cite_start]Pembaruan poster proyek dengan *screenshot* awal aplikasi[cite: 101].
 
 ---
-
-## 🔗 Tautan Repositori
-**https://github.com/2200016143-png/ecosmart-project.git**
 
 Pembaruan kode dan riwayat pengembangan dapat diakses melalui tautan resmi berikut:  
 [cite_start]👉 **[https://github.com/2200016143-png/ecosmart](https://github.com/2200016143-png/ecosmart)** [cite: 104]
